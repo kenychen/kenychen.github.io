@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-#### 這裡是肯尼的程式分享Blog
 
-#### 記錄著我在工作開發上遇到的程式開發問題及心得分享
+![個人照](http://{{ 'd8956303@yahoo.com.tw' | get_gravatar }}?s=200)
 
 # About me
 * 三十五歲的大叔，希望用程式碼來改變世界
