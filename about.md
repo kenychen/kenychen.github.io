@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![個人照](http://{{ 'd8956303@yahoo.com.tw' | get_gravatar }}?s=200)
+![個人照](http://www.gravatar.com/avatar/cbc38ab1cba5b2ae45cf4b78c236cb9c?s=200)
 
 # About me
 * 三十五歲的大叔，希望用程式碼來改變世界
